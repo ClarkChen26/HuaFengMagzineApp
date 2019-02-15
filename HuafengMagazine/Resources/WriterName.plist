@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>writername</key>
+		<string>Zhijie Chen</string>
+		<key>writerposition</key>
+		<string>Editor in Chief</string>
+	</dict>
+	<dict>
+		<key>writername</key>
+		<string>Sijia Chen</string>
+		<key>writerposition</key>
+		<string>Editing Director</string>
+	</dict>
+	<dict>
+		<key>writername</key>
+		<string>Qiujie Huang</string>
+		<key>writerposition</key>
+		<string>Editing Director</string>
+	</dict>
+	<dict>
+		<key>writername</key>
+		<string>Hualong Yang</string>
+		<key>writerposition</key>
+		<string>Editing Director</string>
+	</dict>
+	<dict>
+		<key>writername</key>
+		<string>Xinhao Zhuang</string>
+		<key>writerposition</key>
+		<string>Manager</string>
+	</dict>
+	<dict>
+		<key>writername</key>
+		<string>Xiao Dai</string>
+		<key>writerposition</key>
+		<string>Assistant of Editor in Chief</string>
+	</dict>
+	<dict>
+		<key>writername</key>
+		<string>Rui Geng</string>
+		<key>writerposition</key>
+		<string>Editor</string>
+	</dict>
+	<dict>
+		<key>writername</key>
+		<string>Ziming Guo</string>
+		<key>writerposition</key>
+		<string>Editor</string>
+	</dict>
+	<dict>
+		<key>writername</key>
+		<string>Yimeng He</string>
+		<key>writerposition</key>
+		<string>Editor</string>
+	</dict>
+	<dict>
+		<key>writername</key>
+		<string>Ava Lu Wang</string>
+		<key>writerposition</key>
+		<string>Editor</string>
+	</dict>
+	<dict>
+		<key>writername</key>
+		<string>Benhao Li</string>
+		<key>writerposition</key>
+		<string>Editor</string>
+	</dict>
+	<dict>
+		<key>writername</key>
+		<string>Hsiang-Ting Li</string>
+		<key>writerposition</key>
+		<string>Editor</string>
+	</dict>
+	<dict>
+		<key>writername</key>
+		<string>Gwyn Snider</string>
+		<key>writerposition</key>
+		<string>Editor</string>
+	</dict>
+	<dict>
+		<key>writername</key>
+		<string>Chi Zhang</string>
+		<key>writerposition</key>
+		<string>Editor</string>
+	</dict>
+	<dict>
+		<key>writername</key>
+		<string>Sirui Zhang</string>
+		<key>writerposition</key>
+		<string>Editor</string>
+	</dict>
+	<dict>
+		<key>writername</key>
+		<string>Yue Fan</string>
+		<key>writerposition</key>
+		<string>Manager</string>
+	</dict>
+	<dict>
+		<key>writername</key>
+		<string>Luojia Cheng</string>
+		<key>writerposition</key>
+		<string>Editor</string>
+	</dict>
+	<dict>
+		<key>writername</key>
+		<string>Zhangchi Dai</string>
+		<key>writerposition</key>
+		<string>Editor</string>
+	</dict>
+	<dict>
+		<key>writername</key>
+		<string>Jianzhe Hu</string>
+		<key>writerposition</key>
+		<string>Editor</string>
+	</dict>
+	<dict>
+		<key>writername</key>
+		<string>Chuqian Xiong</string>
+		<key>writerposition</key>
+		<string>Editor</string>
+	</dict>
+	<dict>
+		<key>writername</key>
+		<string>Chen Li</string>
+		<key>writerposition</key>
+		<string>Editor</string>
+	</dict>
+	<dict>
+		<key>writername</key>
+		<string>Kevin E. So</string>
+		<key>writerposition</key>
+		<string>Editor</string>
+	</dict>
+	<dict>
+		<key>writername</key>
+		<string>Ran Ran</string>
+		<key>writerposition</key>
+		<string>Editor</string>
+	</dict>
+	<dict>
+		<key>writername</key>
+		<string>Yuqin Cao</string>
+		<key>writerposition</key>
+		<string>Editor</string>
+	</dict>
+	<dict>
+		<key>writername</key>
+		<string>Funing Wang</string>
+		<key>writerposition</key>
+		<string>Editor</string>
+	</dict>
+	<dict>
+		<key>writername</key>
+		<string>Henry F. Lawrence</string>
+		<key>writerposition</key>
+		<string>Editor</string>
+	</dict>
+</array>
+</plist>

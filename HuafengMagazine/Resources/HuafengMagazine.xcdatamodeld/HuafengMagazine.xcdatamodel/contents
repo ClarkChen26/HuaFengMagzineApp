@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="14135" systemVersion="17G2208" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Magazine" representedClassName=".Magazine" syncable="YES" codeGenerationType="category">
+        <attribute name="magazineName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="magPics" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="magSubtitle" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="magTitle" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="shelf" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Shelf" inverseName="magzine" inverseEntity="Shelf" syncable="YES"/>
+        <relationship name="writer" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Writer" inverseName="mag" inverseEntity="Writer" syncable="YES"/>
+    </entity>
+    <entity name="Shelf" representedClassName=".Shelf" syncable="YES" codeGenerationType="category">
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="weight" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <relationship name="magzine" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Magazine" inverseName="shelf" inverseEntity="Magazine" syncable="YES"/>
+        <fetchIndex name="byWeightIndex">
+            <fetchIndexElement property="weight" type="Binary" order="ascending"/>
+        </fetchIndex>
+    </entity>
+    <entity name="Writer" representedClassName=".Writer" syncable="YES" codeGenerationType="category">
+        <attribute name="writername" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="writerposition" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="mag" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Magazine" inverseName="writer" inverseEntity="Magazine" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Magazine" positionX="-63" positionY="-18" width="128" height="135"/>
+        <element name="Shelf" positionX="-54" positionY="-9" width="128" height="90"/>
+        <element name="Writer" positionX="-54" positionY="9" width="128" height="90"/>
+    </elements>
+</model>

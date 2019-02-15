@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>magWriters</key>
+		<array>
+			<integer>0</integer>
+			<integer>1</integer>
+			<integer>2</integer>
+			<integer>4</integer>
+			<integer>6</integer>
+			<integer>7</integer>
+			<integer>8</integer>
+			<integer>9</integer>
+			<integer>10</integer>
+			<integer>11</integer>
+			<integer>12</integer>
+			<integer>13</integer>
+			<integer>14</integer>
+		</array>
+		<key>magPics</key>
+		<string>Fall2015</string>
+		<key>magTitle</key>
+		<string>2015 Fall</string>
+		<key>magSubtitle</key>
+		<string>Vol.7 Issue 1</string>
+		<key>magazineName</key>
+		<string>2015Fall</string>
+	</dict>
+	<dict>
+		<key>magWriters</key>
+		<array>
+			<integer>0</integer>
+			<integer>1</integer>
+			<integer>2</integer>
+			<integer>4</integer>
+			<integer>6</integer>
+			<integer>7</integer>
+			<integer>8</integer>
+			<integer>9</integer>
+			<integer>11</integer>
+			<integer>12</integer>
+			<integer>13</integer>
+			<integer>14</integer>
+			<integer>15</integer>
+		</array>
+		<key>magPics</key>
+		<string>Spring2015</string>
+		<key>magTitle</key>
+		<string>2015 Spring</string>
+		<key>magSubtitle</key>
+		<string>Vol.6 Issue 3</string>
+		<key>magazineName</key>
+		<string>2015Spring</string>
+	</dict>
+	<dict>
+		<key>magWriters</key>
+		<array>
+			<integer>0</integer>
+			<integer>1</integer>
+			<integer>2</integer>
+			<integer>6</integer>
+			<integer>7</integer>
+			<integer>8</integer>
+			<integer>9</integer>
+			<integer>11</integer>
+			<integer>13</integer>
+			<integer>14</integer>
+			<integer>16</integer>
+			<integer>17</integer>
+		</array>
+		<key>magPics</key>
+		<string>Winter2015</string>
+		<key>magTitle</key>
+		<string>2015 Winter</string>
+		<key>magSubtitle</key>
+		<string>Vol.6 Issue 2</string>
+		<key>magazineName</key>
+		<string>2015Winter</string>
+	</dict>
+	<dict>
+		<key>magWriters</key>
+		<array>
+			<integer>0</integer>
+			<integer>2</integer>
+			<integer>4</integer>
+			<integer>6</integer>
+			<integer>7</integer>
+			<integer>8</integer>
+			<integer>11</integer>
+			<integer>12</integer>
+			<integer>13</integer>
+			<integer>14</integer>
+			<integer>18</integer>
+			<integer>19</integer>
+		</array>
+		<key>magPics</key>
+		<string>Spring2016</string>
+		<key>magTitle</key>
+		<string>2016 Spring</string>
+		<key>magSubtitle</key>
+		<string>Vol.7 Issue 3</string>
+		<key>magazineName</key>
+		<string>2016Spring</string>
+	</dict>
+	<dict>
+		<key>magWriters</key>
+		<array>
+			<integer>0</integer>
+			<integer>3</integer>
+			<integer>4</integer>
+			<integer>5</integer>
+			<integer>7</integer>
+			<integer>8</integer>
+			<integer>9</integer>
+			<integer>18</integer>
+			<integer>20</integer>
+			<integer>21</integer>
+			<integer>22</integer>
+			<integer>23</integer>
+		</array>
+		<key>magPics</key>
+		<string>Fall2017</string>
+		<key>magTitle</key>
+		<string>2017 Fall</string>
+		<key>magSubtitle</key>
+		<string>Vol.8 Issue 3</string>
+		<key>magazineName</key>
+		<string>2017Fall</string>
+	</dict>
+	<dict>
+		<key>magWriters</key>
+		<array>
+			<integer>0</integer>
+			<integer>3</integer>
+			<integer>4</integer>
+			<integer>5</integer>
+			<integer>7</integer>
+			<integer>8</integer>
+			<integer>16</integer>
+			<integer>18</integer>
+			<integer>20</integer>
+			<integer>21</integer>
+			<integer>23</integer>
+			<integer>24</integer>
+		</array>
+		<key>magPics</key>
+		<string>Spring2017</string>
+		<key>magTitle</key>
+		<string>2017 Spring</string>
+		<key>magSubtitle</key>
+		<string>Vol.8 Issue 2</string>
+		<key>magazineName</key>
+		<string>2017Spring</string>
+	</dict>
+	<dict>
+		<key>magWriters</key>
+		<array>
+			<integer>0</integer>
+			<integer>3</integer>
+			<integer>4</integer>
+			<integer>6</integer>
+			<integer>7</integer>
+			<integer>8</integer>
+			<integer>16</integer>
+			<integer>18</integer>
+			<integer>19</integer>
+			<integer>21</integer>
+			<integer>24</integer>
+			<integer>25</integer>
+		</array>
+		<key>magPics</key>
+		<string>Winter2017</string>
+		<key>magTitle</key>
+		<string>2017 Winter</string>
+		<key>magSubtitle</key>
+		<string>Vol.8 Issue 1</string>
+		<key>magazineName</key>
+		<string>2017Winter</string>
+	</dict>
+</array>
+</plist>

@@ -1,10 +1,3 @@
-//
-//  WriterListViewController.swift
-//  HuaFeng
-//
-//  Created by Zhijie Chen on 8/19/18.
-//  Copyright © 2018 Zhijie Chen. All rights reserved.
-//
 
 import UIKit
 import CoreData

@@ -1,10 +1,4 @@
-//
-//  MagazineServices.swift
-//  HuaFeng
-//
-//  Created by Zhijie Chen on 8/9/18.
-//  Copyright © 2018 Zhijie Chen. All rights reserved.
-//
+
 
 import CoreData
 import UIKit

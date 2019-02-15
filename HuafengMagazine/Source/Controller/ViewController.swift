@@ -1,11 +1,3 @@
-//
-//  ViewController.swift
-//  HuafengMagazine
-//
-//  Created by Zhijie Chen on 8/5/18.
-//  Copyright © 2018 Zhijie Chen. All rights reserved.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
